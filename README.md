@@ -1,5 +1,4 @@
 # Web-Scraping-Project
-
 This repository contains a collection of web scraping projects designed to help you practice and enhance your data analysis skills.
 
 | Project | Description |
