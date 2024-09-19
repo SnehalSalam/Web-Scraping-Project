@@ -1,6 +1,5 @@
-# Web-Scraping-Project
+# Web-Scraping-Project 
 This repository contains a collection of web scraping projects designed to help you practice and enhance your data analysis skills.
-
 | Project | Description |
 |---|---|
 | [magicbricks.com](https://github.com/SnehalSalam/Magicbricks_web_Scraping.git) | scrapes residential property data |
